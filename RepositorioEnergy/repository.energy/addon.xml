@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.energy" name="[COLOR white]Energy repositorio[/COLOR]" version="1.0.1" provider-name="Ambrosio">
+<addon id="repository.Mirepor" name="[COLOR white]Energy repositorio[/COLOR]" version="1.0.1" provider-name="Ambrosio">
   <extension point="xbmc.addon.repository" name="Energy repositorio">
     <info>https://raw.githubusercontent.com/AddonEnergy/Repositorio/master/RepositorioEnergy/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/AddonEnergy/Repositorio/master/RepositorioEnergy/addons.xml.md5</checksum>
